@@ -22,6 +22,10 @@
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\glad.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="fragment.glsl" />
+    <None Include="vertex.glsl" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{C7B0C5AD-2957-4FBB-A287-5034600CF61E}</ProjectGuid>
